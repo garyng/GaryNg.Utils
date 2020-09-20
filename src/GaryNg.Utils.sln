@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Void", "Void", "{68435645-CBDD-423C-AC63-D4D142824E61}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GaryNg.Utils.Void", "GaryNg.Utils.Void\GaryNg.Utils.Void.csproj", "{7D247798-805E-41FA-91E3-089E67DD78CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GaryNg.Utils.Wpf", "GaryNg.Utils.Wpf\GaryNg.Utils.Wpf.csproj", "{86473F81-A881-4ED7-B373-6CD6F31DF8B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +17,13 @@ Global
 		{7D247798-805E-41FA-91E3-089E67DD78CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D247798-805E-41FA-91E3-089E67DD78CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D247798-805E-41FA-91E3-089E67DD78CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86473F81-A881-4ED7-B373-6CD6F31DF8B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86473F81-A881-4ED7-B373-6CD6F31DF8B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86473F81-A881-4ED7-B373-6CD6F31DF8B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86473F81-A881-4ED7-B373-6CD6F31DF8B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{7D247798-805E-41FA-91E3-089E67DD78CA} = {68435645-CBDD-423C-AC63-D4D142824E61}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8D731452-F460-4E4C-BA05-E6C5864EF29F}
